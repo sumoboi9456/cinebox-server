@@ -1,0 +1,754 @@
+[
+  {
+    "id": 969681,
+    "title": "Người Nhện: Khởi Đầu Mới",
+    "year": 2026,
+    "genres": [
+      "Phim Khoa Học Viễn Tưởng",
+      "Phim Hành Động",
+      "Phim Phiêu Lưu"
+    ],
+    "rating": 8.2,
+    "overview": "Không còn Tony Stark, MJ hay Ned kề cận, Peter buộc phải đơn thân độc mã đối diện với phe đối đầu bí ẩn. Tuy nhiên, khi áp lực ngày càng gia tăng, nó kích hoạt một sự biến đổi thể chất bất ngờ, đe dọa chính sự tồn tại của anh. Đồng thời, một chuỗi tội phạm bí ẩn mới xuất hiện, kéo theo một trong những mối đe dọa mạnh mẽ nhất mà Spider-Man từng đối mặt.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wqGZVSCUSXE92WH2zyol2REaqT4.jpg"
+  },
+  {
+    "id": 1599191,
+    "title": "Tiên Nghịch Movie: Thí Tiên Chi Chiến",
+    "year": 2026,
+    "genres": [
+      "Phim Hoạt Hình",
+      "Phim Hành Động",
+      "Phim Phiêu Lưu",
+      "Phim Giả Tượng"
+    ],
+    "rating": 7.3,
+    "overview": "Sau khi tiến vào Lôi Chi Tiên Giới, Vương Lâm bất ngờ rơi vào thiên la sát cục do Huyết Tổ giăng sẵn. Giữa mê trận chồng chất, mọi đường lui đều bị phong bế, hắn trở thành mục tiêu của cuộc truy sát không khoan nhượng từ một kẻ địch sở hữu thực lực vượt xa bản thân.  Bị dồn đến ranh giới sinh tử, Vương Lâm không lựa chọn khuất phục. Với ý chí nghịch thiên, sự bình tĩnh cùng kinh nghiệm tích lũy qua vô số lần cận kề cái chết, hắn từng bước nhìn thấu sát cục, phá vỡ từng tầng bố trí của đối phương và nghịch chuyển thế cờ trong hoàn cảnh tưởng chừng không còn lối thoát.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cpgLuRAT8SW7YiZaBYUGZ43GiLL.jpg"
+  },
+  {
+    "id": 1423191,
+    "title": "Vùng Đất Quỷ Dữ",
+    "year": 2026,
+    "genres": [
+      "Phim Kinh Dị",
+      "Phim Khoa Học Viễn Tưởng",
+      "Phim Phiêu Lưu"
+    ],
+    "rating": 7.3,
+    "overview": "Chưa có mô tả",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jlFMvLuzjwt7aI1QVtiNVnFHNBe.jpg"
+  },
+  {
+    "id": 1368337,
+    "title": "The Odyssey",
+    "year": 2026,
+    "genres": [
+      "Phim Phiêu Lưu",
+      "Phim Hành Động",
+      "Phim Giả Tượng"
+    ],
+    "rating": 8,
+    "overview": "Câu chuyện theo chân Odysseus trong hành trình kéo dài 10 năm trở về nhà sau cuộc chiến thành Troy, nơi ông phải đối mặt với các vị thần, quái vật và vô vàn thử thách, đồng thời nỗ lực đoàn tụ với vợ và giành lại vương quốc của mình.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7876PK6gosE13Uq1B6nRxf7AJLT.jpg"
+  },
+  {
+    "id": 1228834,
+    "title": "Phi Vụ Sửa Sai",
+    "year": 2026,
+    "genres": [
+      "Phim Hành Động",
+      "Phim Gây Cấn"
+    ],
+    "rating": 6.9,
+    "overview": "Sau một nhiệm vụ giải cứu thất bại ở Afghanistan, một nhóm cựu đặc vụ CIA mang trong mình cảm giác tội lỗi và thất bại. Khi người chỉ huy Larry tiết lộ bí mật về 25 triệu USD được cất giấu tại Tehran, Tucker tập hợp cả nhóm trở lại Iran, vừa nhằm kiếm một khoản tiền khổng lồ, vừa tìm cách chuộc lại những sai lầm trong quá khứ. Nhưng nhiệm vụ nhanh chóng biến thành một cuộc giải cứu nguy hiểm với những âm mưu, phản bội và bí mật tình báo bị che giấu suốt nhiều năm.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yopXjun3ICFfJci2ukcEzceZjUs.jpg"
+  },
+  {
+    "id": 1377237,
+    "title": "Runner",
+    "year": 2026,
+    "genres": [
+      "Phim Hành Động",
+      "Phim Hài"
+    ],
+    "rating": 8.3,
+    "overview": "Chưa có mô tả",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yBKMAIj7clP42UkFejhGDBBoTpb.jpg"
+  },
+  {
+    "id": 1204680,
+    "title": "Coyote vs. Acme",
+    "year": 2026,
+    "genres": [
+      "Phim Hài",
+      "Phim Phiêu Lưu",
+      "Phim Gia Đình"
+    ],
+    "rating": 7.5,
+    "overview": "Sau quá nhiều lần thất bại vì những món hàng lỗi của công ty Acme trong cuộc săn đuổi không ngừng nghỉ chú chim Roadrunner, Wile E. Coyote quyết định thuê một luật sư… từ biển quảng cáo, để kiện tập đoàn Acme ra tòa.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg"
+  },
+  {
+    "id": 1751701,
+    "title": "After Impact",
+    "year": 2026,
+    "genres": [
+      "Phim Khoa Học Viễn Tưởng",
+      "Phim Chính Kịch",
+      "Phim Gây Cấn"
+    ],
+    "rating": 6.2,
+    "overview": "Chưa có mô tả",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg"
+  },
+  {
+    "id": 1248832,
+    "title": "Digger",
+    "year": 2026,
+    "genres": [
+      "Phim Hài",
+      "Phim Chính Kịch"
+    ],
+    "rating": 7.5,
+    "overview": "Tom Cruise vào vai Digger Rockwell - Người đàn ông quyền lực nhất thế giới. Khi một thảm họa do chính mình gây ra đang đẩy nhân loại đến bờ vực diệt vong, Digger buộc phải chạy đua với thời gian để chứng minh mình là vị cứu tinh của nhân loại.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ivaJBdvZiq7An27tKA5Ys2FSHsS.jpg"
+  },
+  {
+    "id": 1101383,
+    "title": "Ngày Tàn Của Phố Oak",
+    "year": 2026,
+    "genres": [
+      "Phim Khoa Học Viễn Tưởng",
+      "Phim Bí Ẩn",
+      "Phim Gây Cấn"
+    ],
+    "rating": 7.1,
+    "overview": "Sau khi một thảm họa thiên nhiên xé toạc Phố Oak khỏi khu ngoại ô và đưa con phố đến một nơi xa lạ, gia đình Platt nhanh chóng nhận ra rằng chỉ bằng cách luôn đứng bên nhau, họ mới có thể vượt qua vận mệnh nghiệt ngã này.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fprITg7E3v7Hj9wGKmCXCBVLSHq.jpg"
+  },
+  {
+    "id": 460458,
+    "title": "Resident Evil: Quỷ Dữ Trỗi Dậy",
+    "year": 2021,
+    "genres": [
+      "Phim Hành Động",
+      "Phim Kinh Dị",
+      "Phim Khoa Học Viễn Tưởng"
+    ],
+    "rating": 5.9,
+    "overview": "Resident Evil là một trong những tựa game sinh tồn xác sống ăn khách nhất mọi thời đại. Sau 25 năm và 8 phần game gốc cùng hàng loạt ngoại truyện, tác phẩm ngày càng có đông đảo người hâm mộ. Loạt phim Resident Evil do Paul W.S. Anderson đạo diễn là một thành công về mặt thương mại nhưng bị nhiều fan chỉ trích vì rời quá xa nguyên tác. Do đó mà Sony quyết định tái khởi động thương hiệu với Resident Evil: Welcome to Raccoon City (Resident Evil: Quỷ dữ trỗi dậy) có nội dung lấy từ hai phần game đầu tiên.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/czCXV0kV5J2vtiSyfcbL4Rv4d31.jpg"
+  },
+  {
+    "id": 1294189,
+    "title": "Cầy mangut",
+    "year": 2026,
+    "genres": [
+      "Phim Hành Động",
+      "Phim Gây Cấn"
+    ],
+    "rating": 0,
+    "overview": "Một anh hùng chiến tranh bị buộc tội sai và không còn gì để mất đã dẫn cảnh sát vào một cuộc rượt đuổi bằng ô tô xuyên quốc gia trên truyền hình hoành tráng, được các thành viên trong tiểu đoàn Quân đội Lực lượng Đặc biệt cũ của anh ta giúp đỡ và được theo dõi chặt chẽ bởi một cộng đồng mê mẩn tìm kiếm nơi nghỉ ngơi an toàn cho anh ta.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg"
+  },
+  {
+    "id": 1032863,
+    "title": "The Love Hypothesis",
+    "year": 2026,
+    "genres": [
+      "Phim Lãng Mạn",
+      "Phim Hài"
+    ],
+    "rating": 8,
+    "overview": "Chưa có mô tả",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vfZxVHextAGC70zrNhS8lsROqP1.jpg"
+  },
+  {
+    "id": 1084244,
+    "title": "Câu Chuyện Đồ Chơi 5",
+    "year": 2026,
+    "genres": [
+      "Phim Hoạt Hình",
+      "Phim Gia Đình",
+      "Phim Hài",
+      "Phim Phiêu Lưu"
+    ],
+    "rating": 8.3,
+    "overview": "Khi Bonnie được tặng chiếc máy tính bảng Lilypad và dần mê mẩn món đồ chơi mới, Buzz, Woody, Jessie cùng cả nhóm bỗng đứng trước nguy cơ bị lãng quên. Để giành lại giờ chơi, họ phải đối đầu với “đối thủ” hiện đại nhất từ trước đến nay: một màn hình nhỏ nhưng có sức hút quá lớn.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8ZE3s8PN5yRpTidymRWpI0jvs7j.jpg"
+  },
+  {
+    "id": 977942,
+    "title": "Tro Tàn Vùng Lên",
+    "year": 2026,
+    "genres": [
+      "Phim Lịch Sử",
+      "Phim Chính Kịch",
+      "Phim Hành Động"
+    ],
+    "rating": 8,
+    "overview": "Giữa nước Anh thế kỷ 14 bị dịch bệnh tàn phá, một người nông dân nghèo vô tình châm ngòi cho làn sóng phản kháng chống lại Vua Richard II. Từ một kẻ vô danh dưới đáy xã hội, ông trở thành huyền thoại của những con người không còn gì để mất.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg"
+  },
+  {
+    "id": 1339713,
+    "title": "Ám Ảnh",
+    "year": 2026,
+    "genres": [
+      "Phim Kinh Dị",
+      "Phim Gây Cấn"
+    ],
+    "rating": 8.2,
+    "overview": "Sau khi bẻ gãy \"Liễu Ước Nguyện\" thần bí để có được người mình thầm yêu, gã si tình rốt cuộc cũng cầu được ước thấy, để rồi kinh hãi nhận ra cái giá tăm tối phía sau lời ước đó.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/15qLAM3QM8DoPL9Fps4JOTdqWqt.jpg"
+  },
+  {
+    "id": 30723,
+    "title": "Cavegirl",
+    "year": 1985,
+    "genres": [
+      "Phim Hài"
+    ],
+    "rating": 3.9,
+    "overview": "Chưa có mô tả",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kONbgktPKsm3EMj3MiES0IP8BRr.jpg"
+  },
+  {
+    "id": 1375646,
+    "title": "Bầy Xác Sống",
+    "year": 2026,
+    "genres": [
+      "Phim Kinh Dị",
+      "Phim Hành Động",
+      "Phim Khoa Học Viễn Tưởng"
+    ],
+    "rating": 8.1,
+    "overview": "Giáo sư Se Jeong tham dự một hội nghị công nghệ sinh học, nhưng lại chứng kiến ​​nó biến thành thảm họa khi một loại virus đột biến nhanh chóng được giải phóng. Khi dịch bệnh lan rộng và những người nhiễm bệnh bắt đầu biến đổi, chính quyền đã phong tỏa toàn bộ cơ sở.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lzI70txBtLH5kCUixYMJQffKkL9.jpg"
+  },
+  {
+    "id": 1288445,
+    "title": "Tàu Buôn Người",
+    "year": 2026,
+    "genres": [
+      "Phim Hành Động",
+      "Phim Gây Cấn"
+    ],
+    "rating": 7.4,
+    "overview": "Sau khi chứng kiến ​​vụ sát hại người chủ tỷ phú của mình và bị gán tội oan, Cole Reed lên một con tàu chở hàng để đơn độc thực hiện hành trình báo thù, nhưng rồi lại phát hiện ra một âm mưu mang tầm quốc tế.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nDcgl5K2MCZk3xK3bh383CmIZsS.jpg"
+  },
+  {
+    "id": 1283515,
+    "title": "Verity: Bí Mật Bị Chôn Vùi",
+    "year": 2026,
+    "genres": [
+      "Phim Bí Ẩn",
+      "Phim Gây Cấn"
+    ],
+    "rating": 6.4,
+    "overview": "Lowen Ashleigh được Jeremy Crawford thuê để viết tiếp các tiểu thuyết dang dở cho vợ anh là Verity, một nữ nhà văn nổi tiếng không còn khả năng hoàn thành công việc sau tai nạn. Trong thời gian sống tại nhà Crawford để làm việc, Lowen dần phát hiện những bí mật rùng rợn xoay quanh Verity.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/54MwktkK2i2GJM8fYU9jNXGaHk.jpg"
+  },
+  {
+    "id": 1283515,
+    "title": "Verity: Bí Mật Bị Chôn Vùi",
+    "year": 2026,
+    "genres": [
+      "Phim Bí Ẩn",
+      "Phim Gây Cấn"
+    ],
+    "rating": 6.5,
+    "overview": "Lowen Ashleigh được Jeremy Crawford thuê để viết tiếp các tiểu thuyết dang dở cho vợ anh là Verity, một nữ nhà văn nổi tiếng không còn khả năng hoàn thành công việc sau tai nạn. Trong thời gian sống tại nhà Crawford để làm việc, Lowen dần phát hiện những bí mật rùng rợn xoay quanh Verity.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/54MwktkK2i2GJM8fYU9jNXGaHk.jpg"
+  },
+  {
+    "id": 1291595,
+    "title": "Quỷ Quyệt: Ranh Giới Vô Định",
+    "year": 2026,
+    "genres": [
+      "Phim Kinh Dị",
+      "Phim Gây Cấn"
+    ],
+    "rating": 6.9,
+    "overview": "Ba kẻ rình rập xâm nhập một khu dân cư yên tĩnh và kéo một gia đình mới chuyển đến sang cõi linh hồn. Tại đó, họ phát hiện ra một sự thật kinh hoàng: cõi âm đang dần xâm lấn thế giới thực.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/u1ZyMm7HcYO1CJwtk28dStDH9Bp.jpg"
+  },
+  {
+    "id": 1556321,
+    "title": "Quỷ Ăn Tạng 4: Hổ Tinh",
+    "year": 2026,
+    "genres": [
+      "Phim Kinh Dị",
+      "Phim Gây Cấn",
+      "Phim Hành Động"
+    ],
+    "rating": 0,
+    "overview": "Cuộc gặp gỡ đầu tiên giữa Yak và Trung sĩ Paphan khi cả hai dấn thân vào một nhiệm vụ sinh tử: truy tìm một người đàn ông mất tích. Dẫn đầu toán quân tiến sâu vào vùng hiểm địa âm u, họ phải đối mặt với Hổ tinh ăn thịt người vùng Khao Khwang, kẻ sở hữu khả năng biến hóa khôn lường thành muôn hình vạn trạng. Bị bủa vây giữa ngàn trùng nguy hiểm của rừng thiêng, Yak và Trung sĩ Paphan chỉ còn một con đường duy nhất: sát cánh chiến đấu để sinh tồn và vạch trần sự thật tàn khốc trước khi chính họ trở thành mồi ngon tiếp theo của nó.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qHUhkGPzMSf6FcQZNbInztr5QkX.jpg"
+  },
+  {
+    "id": 1712451,
+    "title": "Resident Dead",
+    "year": 2026,
+    "genres": [
+      "Phim Kinh Dị"
+    ],
+    "rating": 5.9,
+    "overview": "Chưa có mô tả",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yX8ziNTZ5aOszJ3l4R3BlT2gBIa.jpg"
+  },
+  {
+    "id": 1263337,
+    "title": "Trái Tim Quái Thú",
+    "year": 2026,
+    "genres": [
+      "Phim Phiêu Lưu",
+      "Phim Gây Cấn"
+    ],
+    "rating": 7.5,
+    "overview": "Sau một vụ tai nạn máy bay kinh hoàng, sĩ quan Lực lượng Đặc nhiệm James Belmont (Brad Pitt) và chú chó chiến đấu Odin bị mắc kẹt giữa vùng hoang dã sâu thẳm của Alaska. Từ đó, họ buộc phải cùng nhau bước vào cuộc chiến sinh tồn khốc liệt trước thiên nhiên khắc nghiệt. Từ đạo diễn danh tiếng David Ayer, Trái Tim Quái Thú là một bộ phim phiêu lưu đầy căng thẳng, khai thác mối gắn kết không thể tách rời giữa một người đàn ông và người bạn thân thiết nhất của mình, khi cả hai phải đối mặt với trận chiến lớn nhất cuộc đời.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2nVdUaSsD4cV2GwwZpuXbiHIXM.jpg"
+  },
+  {
+    "id": 1482547,
+    "title": "Zip Wire",
+    "year": 2026,
+    "genres": [
+      "Phim Hành Động",
+      "Phim Gây Cấn"
+    ],
+    "rating": 7.7,
+    "overview": "Chưa có mô tả",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cO7J0XSVKPlAjUCMWC7DVBn1Py2.jpg"
+  },
+  {
+    "id": 1477712,
+    "title": "Gã Bán Kem",
+    "year": 2026,
+    "genres": [
+      "Phim Hài",
+      "Phim Kinh Dị",
+      "Phim Gây Cấn"
+    ],
+    "rating": 4.8,
+    "overview": "Một thị trấn vào mùa hè yên bình đột nhiên trở nên hỗn loạn khi một ông bán kem phục vụ trẻ em những món ngọt nhưng lại đựng hậu quả kinh hoàng.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg"
+  },
+  {
+    "id": 1108427,
+    "title": "Hành Trình Của Moana",
+    "year": 2026,
+    "genres": [
+      "Phim Gia Đình",
+      "Phim Giả Tượng",
+      "Phim Hài",
+      "Phim Phiêu Lưu"
+    ],
+    "rating": 7.4,
+    "overview": "Nghe theo tiếng gọi của Đại Dương, Moana dũng cảm rời đảo Motunui, lần đầu vượt qua rạn san hô để khám phá thế giới rộng lớn. Cùng á thần Maui, cô bắt đầu hành trình phiêu lưu đầy kỳ diệu với sứ mệnh mang lại sự thịnh vượng cho quê hương.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lwqKqiBsGVBtQBZF9ZTunthBCyI.jpg"
+  },
+  {
+    "id": 1607127,
+    "title": "Phát Bắn Cuối",
+    "year": 2026,
+    "genres": [
+      "Phim Hành Động",
+      "Phim Gây Cấn"
+    ],
+    "rating": 7.4,
+    "overview": "Chưa có mô tả",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg"
+  },
+  {
+    "id": 299534,
+    "title": "Avengers: Hồi Kết",
+    "year": 2019,
+    "genres": [
+      "Phim Phiêu Lưu",
+      "Phim Khoa Học Viễn Tưởng",
+      "Phim Hành Động"
+    ],
+    "rating": 8.2,
+    "overview": "Sau sự kiện hủy diệt tàn khốc, vũ trụ chìm trong cảnh hoang tàn. Với sự trợ giúp của những đồng minh còn sống sót, biệt đội siêu anh hùng Avengers tập hợp một lần nữa để đảo ngược hành động của Thanos và khôi phục lại trật tự của vũ trụ.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8go3YE9sBMQaCXEx23j6BAfeuxd.jpg"
+  },
+  {
+    "id": 1340102,
+    "title": "Nắm Đấm Sư Tử",
+    "year": 2026,
+    "genres": [
+      "Phim Hành Động"
+    ],
+    "rating": 7.9,
+    "overview": "Võ sĩ Joe vào tù 4 năm để nhận tội thay người vợ trong một vụ bắt giữ ma tuý. Sau khi ra tù, anh biết tin con trai cần phẫu thuật rất tốn kèm vì một khối u đe doạ tính mạng. Cơ hội duy nhất để Joe cứu con trai là một giải đấu võ thuật tổng hợp khốc liệt với giải thưởng trị giá 100.000 đô la.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ezFIXWTbIXlBuZ4kKgto4N3i3of.jpg"
+  },
+  {
+    "id": 1339274,
+    "title": "No dejes a los niños solos",
+    "year": 2026,
+    "genres": [
+      "Phim Kinh Dị",
+      "Phim Chính Kịch",
+      "Phim Gây Cấn"
+    ],
+    "rating": 6.9,
+    "overview": "Chưa có mô tả",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jxg1sLzG0TJRDPSNU6AmR4wR4Ce.jpg"
+  },
+  {
+    "id": 1422011,
+    "title": "Kết Thúc",
+    "year": 2026,
+    "genres": [
+      "Phim Kinh Dị",
+      "Phim Bí Ẩn"
+    ],
+    "rating": 5.6,
+    "overview": "Một nhóm sinh viên mới tốt nghiệp lái xe đi ăn khuya, với hy vọng có một buổi tụ tập cuối cùng trước khi mỗi người đi theo con đường riêng. Thay vào đó, họ vô tình rẽ vào một con đường hai làn xe dài vô tận, bao quanh bởi những nỗi kinh hoàng và thế lực vũ trụ vượt quá tầm hiểu biết của họ. Bị nhồi nhét vào trong chiếc Jeep Cherokee và với quãng đường phía trước trải dài vô tận, họ phải đối mặt với một lựa chọn: chấp nhận cuộc sống mới hay chiến đấu để thoát khỏi nó.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6dfAGvZWbJnzWfSZ8gxFj63BNAH.jpg"
+  },
+  {
+    "id": 1450404,
+    "title": "La casa en el árbol",
+    "year": 2025,
+    "genres": [
+      "Phim Kinh Dị"
+    ],
+    "rating": 3.8,
+    "overview": "Chưa có mô tả",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gogohugn7XWmDoaUewGh0H7ipG9.jpg"
+  },
+  {
+    "id": 1492640,
+    "title": "UNABOMBER",
+    "year": 2026,
+    "genres": [
+      "Phim Gây Cấn",
+      "Phim Chính Kịch",
+      "Phim Hình Sự"
+    ],
+    "rating": 6.6,
+    "overview": "Lấy cảm hứng từ sự kiện có thật, bộ phim chính kịch này kể về hành trình Ted Kaczynski từ thần đồng Harvard và đối tượng thí nghiệm trở thành Unabomber giữa lúc bị FBI truy lùng.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg"
+  },
+  {
+    "id": 1003596,
+    "title": "Avengers: Ngày Tận Thế",
+    "year": 2026,
+    "genres": [
+      "Phim Khoa Học Viễn Tưởng",
+      "Phim Hành Động",
+      "Phim Phiêu Lưu"
+    ],
+    "rating": 0,
+    "overview": "Avengers: Doomsday theo chân những người hùng được yêu mến đến từ ba vũ trụ khác nhau, khi họ bị cuốn vào một hành trình va chạm sinh tử và phải đối mặt với một mối đe dọa mang tính sống còn chưa từng có trong lịch sử.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2NRUUSow5XBcmFXJta7W5JrfWk7.jpg"
+  },
+  {
+    "id": 204922,
+    "title": "Tội Ác Ngủ Say",
+    "year": 2014,
+    "genres": [
+      "Phim Gây Cấn",
+      "Phim Bí Ẩn"
+    ],
+    "rating": 6.5,
+    "overview": "Ben Lucas và bác sĩ Nash đều tìm cách giúp đỡ vợ Ben lấy lại ký ức nhưng thực chất cả hai người này đều đang giấu giếm nhiều.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oRcz5asnDf9HVHYZLFsh2GDbE5C.jpg"
+  },
+  {
+    "id": 1315772,
+    "title": "Minions & Quái Vật",
+    "year": 2026,
+    "genres": [
+      "Phim Phiêu Lưu",
+      "Phim Hoạt Hình",
+      "Phim Hài",
+      "Phim Gia Đình",
+      "Phim Giả Tượng"
+    ],
+    "rating": 7.6,
+    "overview": "Đây là câu chuyện có thật, đầy náo nhiệt, lố bịch và vô cùng điên rồ về cách các Minion chinh phục Hollywood, trở thành ngôi sao điện ảnh, rồi đánh mất tất cả, vô tình giải phóng những quái vật ra thế giới và cuối cùng buộc phải sát cánh bên nhau để cứu lấy Trái Đất khỏi chính mớ hỗn loạn mà họ đã gây ra.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/z8OWDTR7pQuZi7jkEuR7yMXRrQt.jpg"
+  },
+  {
+    "id": 687163,
+    "title": "Thoát Khỏi Tận Thế",
+    "year": 2026,
+    "genres": [
+      "Phim Khoa Học Viễn Tưởng",
+      "Phim Phiêu Lưu"
+    ],
+    "rating": 8.6,
+    "overview": "Mất trí nhớ và lạc lõng trên một con tàu vũ trụ, một phi hành gia khám phá ra rằng anh là hy vọng duy nhất của nhân loại trước bờ vực tuyệt chủng. Một liên minh bất ngờ được hình thành, nắm giữ vận mệnh của tất cả.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7NzV9SN5ocWzMrdQw9fFDgLYVJC.jpg"
+  },
+  {
+    "id": 755898,
+    "title": "Cuộc Chiến Giữa Các Thế Giới",
+    "year": 2025,
+    "genres": [
+      "Phim Khoa Học Viễn Tưởng",
+      "Phim Gây Cấn"
+    ],
+    "rating": 4,
+    "overview": "Will Radford — chuyên gia phân tích an ninh mạng hàng đầu của Bộ An ninh Nội địa — chuyên theo dõi các mối đe dọa đến an ninh quốc gia thông qua một chương trình giám sát diện rộng. Nhưng một cuộc tấn công bất ngờ từ một thực thể bí ẩn đã khiến anh bắt đầu nghi ngờ: phải chăng chính phủ đang che giấu điều gì đó… không chỉ với anh mà với toàn thế giới?",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3e6GQvCA9hguxqfqA75BDvG7Vvp.jpg"
+  },
+  {
+    "id": 1083381,
+    "title": "Backrooms: Thực Thể Quỷ Quyệt",
+    "year": 2026,
+    "genres": [
+      "Phim Kinh Dị",
+      "Phim Bí Ẩn",
+      "Phim Khoa Học Viễn Tưởng"
+    ],
+    "rating": 7,
+    "overview": "Backrooms theo chân Clark, một chủ cửa hàng nội thất, vô tình phát hiện cánh cửa bí ẩn dưới tầng hầm. Bước qua đó, anh bị cuốn vào một chiều không gian vô tận với những căn phòng màu vàng méo mó, liên tục lặp lại. Khi Clark ngày càng lún sâu và ám ảnh, nhà trị liệu tâm lý của anh là Mary quyết định bước vào không gian đó để tìm và giải cứu anh.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7uabN7xF4209cDUdBuMvkVcpkN2.jpg"
+  },
+  {
+    "id": 1084242,
+    "title": "Phi Vụ Động Trời 2",
+    "year": 2025,
+    "genres": [
+      "Phim Hoạt Hình",
+      "Phim Phiêu Lưu",
+      "Phim Hài",
+      "Phim Bí Ẩn",
+      "Phim Gia Đình"
+    ],
+    "rating": 7.7,
+    "overview": "Trong bộ phim \"Zootopia 2 - Phi Vụ Động Trời 2\" từ Walt Disney Animation Studios, hai thám tử Judy Hopps (lồng tiếng bởi Ginnifer Goodwin) và Nick Wilde (lồng tiếng bởi Jason Bateman) bước vào hành trình truy tìm một sinh vật bò sát bí ẩn vừa xuất hiện tại Zootopia và khiến cả vương quốc động vật bị đảo lộn. Để phá được vụ án, Judy và Nick buộc phải hoạt động bí mật tại những khu vực mới lạ của thành phố – nơi mối quan hệ đồng nghiệp của họ bị thử thách hơn bao giờ hết.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5wXpOF9WPUKliIzNBdAqwAStLHU.jpg"
+  },
+  {
+    "id": 1300945,
+    "title": "Mặc Sát",
+    "year": 2024,
+    "genres": [
+      "Phim Hình Sự",
+      "Phim Bí Ẩn",
+      "Phim Gây Cấn"
+    ],
+    "rating": 7.6,
+    "overview": "Khi cái chết của một học sinh bị bắt nạt khơi mào hàng loạt vụ án mạng, ngôi trường nữ sinh tưởng chừng yên bình nọ sụp đổ khi ngày càng nhiều bí mật đen tối được phơi bày.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uKThqY2oRYSHOPxYryTp2550fuZ.jpg"
+  },
+  {
+    "id": 299536,
+    "title": "Avengers: Cuộc Chiến Vô Cực",
+    "year": 2018,
+    "genres": [
+      "Phim Phiêu Lưu",
+      "Phim Hành Động",
+      "Phim Khoa Học Viễn Tưởng"
+    ],
+    "rating": 8.2,
+    "overview": "Sau chuyến hành trình độc nhất vô nhị không ngừng mở rộng và phát triển vụ trũ điện ảnh Marvel, bộ phim Avengers: Cuộc Chiến Vô Cực sẽ mang đến màn ảnh trận chiến cuối cùng khốc liệt nhất mọi thời đại. Biệt đội Avengers và các đồng minh siêu anh hùng của họ phải chấp nhận hy sinh tất cả để có thể chống lại kẻ thù hùng mạnh Thanos trước tham vọng hủy diệt toàn bộ vũ trụ của hắn.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8gHc1cthgTOkmMiOREodCVZgJ7P.jpg"
+  },
+  {
+    "id": 1275779,
+    "title": "Thời Khắc Công Bố",
+    "year": 2026,
+    "genres": [
+      "Phim Khoa Học Viễn Tưởng",
+      "Phim Gây Cấn"
+    ],
+    "rating": 7.5,
+    "overview": "Nếu một ngày bạn nhận ra rằng chúng ta chưa bao giờ đơn độc, nếu có ai đó đứng trước mặt bạn và chứng minh điều đó là sự thật, liệu việc đó khiến bạn sợ hãi? Mùa Hè 2026, sự thật nằm trong tay của bảy tỷ con người. Chúng ta đang tiến rất gần đến… Thời Khắc Công Bố.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nI4uPl4E3No8674XnyY8zJpceBS.jpg"
+  },
+  {
+    "id": 45722,
+    "title": "No mires para abajo",
+    "year": 2008,
+    "genres": [
+      "Phim Chính Kịch",
+      "Phim Lãng Mạn"
+    ],
+    "rating": 5.7,
+    "overview": "Chưa có mô tả",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/97FUF1MbKpW0ZwwhnDbeoI2cPB4.jpg"
+  },
+  {
+    "id": 1156869,
+    "title": "性迷宮",
+    "year": 1994,
+    "genres": [],
+    "rating": 0,
+    "overview": "Chưa có mô tả",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cSOW4av17KfO9K2CRqKCjMbeoMw.jpg"
+  },
+  {
+    "id": 83533,
+    "title": "Avatar: Lửa và Tro Tàn",
+    "year": 2025,
+    "genres": [
+      "Phim Khoa Học Viễn Tưởng",
+      "Phim Phiêu Lưu",
+      "Phim Giả Tượng"
+    ],
+    "rating": 7.6,
+    "overview": "Sau cuộc chiến tàn khốc với RDA và nỗi mất mát to lớn khi đứa con trai cả hy sinh, Jake Sully và Neytiri phải đối mặt với một mối đe dọa mới trên Pandora: tộc Tro Tàn — một nhóm Na'vi hung bạo và khát khao quyền lực, do thủ lĩnh tàn nhẫn Varang dẫn dắt. Gia đình Jake buộc phải chiến đấu để sinh tồn và bảo vệ tương lai của Pandora, trong một cuộc xung đột đẩy họ đến giới hạn cuối cùng cả về thể xác lẫn tinh thần.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/w6DBmG260sCHBQdGzkBIVn9gAQZ.jpg"
+  },
+  {
+    "id": 1538457,
+    "title": "மீசைய முருக்கு 2",
+    "year": 2026,
+    "genres": [
+      "Phim Hài",
+      "Phim Lãng Mạn",
+      "Phim Chính Kịch"
+    ],
+    "rating": 0,
+    "overview": "Chưa có mô tả",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qD1QwmInB9ezd2peVb5EbhaM4Mo.jpg"
+  },
+  {
+    "id": 1458857,
+    "title": "Doing Life",
+    "year": 2026,
+    "genres": [
+      "Phim Lãng Mạn",
+      "Phim Chính Kịch"
+    ],
+    "rating": 7.4,
+    "overview": "Chưa có mô tả",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg"
+  },
+  {
+    "id": 980431,
+    "title": "Huyền Thoại Aang: Tiết Khí Sư Cuối Cùng",
+    "year": 2026,
+    "genres": [
+      "Phim Hoạt Hình",
+      "Phim Phiêu Lưu",
+      "Phim Giả Tượng",
+      "Phim Hành Động"
+    ],
+    "rating": 9.1,
+    "overview": "Bộ phim tập trung vào giai đoạn hậu chiến tranh, khi thế giới đang trong quá trình tái thiết và đối mặt với những mối đe dọa mới tinh vi hơn từ các tàn dư chính trị. Aang phải gánh vác trọng trách duy trì sự cân bằng giữa bốn quốc gia, đồng thời đối diện với những áp lực của một Thế Thần trưởng thành. Phim hứa hẹn sẽ khai thác sâu hơn về sức mạnh của Aang ở thời kỳ đỉnh cao và mối quan hệ bền chặt của nhóm bạn sau nhiều năm gắn bó.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gf7EeEQe22Zu1u55wRT8EAnav93.jpg"
+  },
+  {
+    "id": 1229906,
+    "title": "Family",
+    "year": 2026,
+    "genres": [
+      "Phim Chính Kịch",
+      "Phim Kinh Dị"
+    ],
+    "rating": 6.5,
+    "overview": "Chưa có mô tả",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cTXGUz1Mle56A6vAK2GAf1j8Wtn.jpg"
+  },
+  {
+    "id": 1518257,
+    "title": "La coleccionista",
+    "year": 2025,
+    "genres": [
+      "Phim Kinh Dị",
+      "Phim Bí Ẩn"
+    ],
+    "rating": 6.5,
+    "overview": "Chưa có mô tả",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7GHxs989obQTcHbmhI7a4fnUOdo.jpg"
+  },
+  {
+    "id": 533535,
+    "title": "Deadpool và Wolverine",
+    "year": 2024,
+    "genres": [
+      "Phim Hành Động",
+      "Phim Hài",
+      "Phim Khoa Học Viễn Tưởng"
+    ],
+    "rating": 7.6,
+    "overview": "Wade Wilson, chán nản, đang cố gắng sống cuộc đời bình thường sau những ngày làm lính đánh thuê không mấy lương thiện, Deadpool. Nhưng khi quê hương của anh đứng trước nguy cơ diệt vong, Wade buộc phải khoác lại bộ đồ một lần nữa, cùng với một Wolverine còn miễn cưỡng hơn.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lfY2CfmxyN9OvxmFuap6aejViJn.jpg"
+  },
+  {
+    "id": 1284046,
+    "title": "Lằn Ranh Tử Chiến",
+    "year": 2026,
+    "genres": [
+      "Phim Hành Động",
+      "Phim Kinh Dị",
+      "Phim Gây Cấn"
+    ],
+    "rating": 5.9,
+    "overview": "LMột người mẹ sống trong khu nhà xe phải liều mình bảo vệ gia đình khi một mối hiểm họa thoát ra từ căn cứ quân sự bí mật. Khi lực lượng lính đánh thuê kéo đến để phong tỏa mọi thứ, cuộc chiến sinh tồn của cô nhanh chóng biến thành cuộc đối đầu không lối thoát.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg"
+  },
+  {
+    "id": 24428,
+    "title": "Avengers: Biệt Đội Siêu Anh Hùng",
+    "year": 2012,
+    "genres": [
+      "Phim Khoa Học Viễn Tưởng",
+      "Phim Hành Động",
+      "Phim Phiêu Lưu"
+    ],
+    "rating": 8.1,
+    "overview": "The Avengers là bộ phim giả tưởng kể về một nhóm siêu anh hùng với những khả năng đặc biệt, họ bao gồm: Người Sắt, Thor, Đội trưởng Mỹ, và Người Khổng Lồ Xanh Hulk cùng tham gia với tổ chức bảo vệ thế giới SHIELD. Mục đích của SHIELD là nhằm bảo vệ Trái Đất khỏi âm mưu hủy hoại của những thế lực xấu từ ngoài địa cầu mà kẻ cầm đầu là Loki.",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rX46P5ZwcHOvrkhtYDYhnNf46Bo.jpg"
+  },
+  {
+    "id": 1130948,
+    "title": "Rosebush Pruning",
+    "year": 2026,
+    "genres": [
+      "Phim Hài",
+      "Phim Chính Kịch",
+      "Phim Gây Cấn"
+    ],
+    "rating": 5.9,
+    "overview": "Chưa có mô tả",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rsHEVjzxU8cxz1sm3vboj99daNv.jpg"
+  },
+  {
+    "id": 157336,
+    "title": "Hố Đen Tử Thần",
+    "year": 2014,
+    "genres": [
+      "Phim Phiêu Lưu",
+      "Phim Chính Kịch",
+      "Phim Khoa Học Viễn Tưởng"
+    ],
+    "rating": 8.5,
+    "overview": "Interstellar nói về chuyến hành trình đi tìm một hành tinh mới cho loài người trú ngụ khi mà Trái Đất dần dần không còn là nơi an toàn và sự sống thì đang chết dần với những dịch bệnh trên các loại cây lương thực, đe dọa đến sự tồn tại của loài người một cách mạnh mẽ. Chúng ta sẽ đi theo hành trình của phi hành đoàn gồm Copper, Amelia cùng các thành viên khác trong việc giải cứu các phi hành gia khác đã lên đường khám phá các hành tinh mới để tìm ra hành tinh mới cho loài người trú ngụ",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/if4TI9LbqNIrzkoOgWjX5PZYDYe.jpg"
+  },
+  {
+    "id": 1341284,
+    "title": "ミッシング・チャイルド・ビデオテープ",
+    "year": 2025,
+    "genres": [
+      "Phim Bí Ẩn",
+      "Phim Kinh Dị"
+    ],
+    "rating": 7.6,
+    "overview": "Chưa có mô tả",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tB3Q2sFKCXF0zv49JDf2pQsEnAn.jpg"
+  },
+  {
+    "id": 1440098,
+    "title": "Enfrentados: Marfil",
+    "year": 2026,
+    "genres": [
+      "Phim Lãng Mạn",
+      "Phim Gây Cấn"
+    ],
+    "rating": 6.9,
+    "overview": "Chưa có mô tả",
+    "posterUrl": "https://image.tmdb.org/t/p/w342/umlft1ztFbUcnHf960pXJocjpdv.jpg"
+  }
+]
