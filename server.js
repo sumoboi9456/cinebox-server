@@ -3,7 +3,7 @@ const fs = require("fs");
 const crypto = require("crypto");
 
 const app = express();
-app.use(express.json());                       // cho phép đọc body dạng JSON
+app.use(express.json());                    // cho phép đọc body dạng JSON
 
 // ---------- "Cơ sở dữ liệu" bằng file ----------
 const DB_FILE = "db.json";
@@ -48,6 +48,21 @@ app.post("/api/login", (req, res) => {
   res.json({ token, username });
 });
 
+// Đổi mật khẩu (PUT /api/me/password)
+app.put("/api/me/password", auth, (req, res) => {
+  const { oldPassword, newPassword } = req.body;
+  const u = db.users.find((x) => x.username === req.username);
+  if (!u || u.hash !== hashPw(oldPassword || "", u.salt)) {
+    return res.status(400).json({ error: "Mật khẩu hiện tại không chính xác" });
+  }
+  if (!newPassword || newPassword.length < 6) {
+    return res.status(400).json({ error: "Mật khẩu mới tối thiểu 6 ký tự" });
+  }
+  u.hash = hashPw(newPassword, u.salt);
+  save();
+  res.json({ message: "Đổi mật khẩu thành công" });
+});
+
 // ---------- Phim ----------
 app.get("/api/movies", (req, res) => {
   const search = (req.query.search || "").toLowerCase();
@@ -80,6 +95,20 @@ app.post("/api/movies/:id/reviews", auth, (req, res) => {
   db.reviews.push(review);
   save();
   res.status(201).json(review);
+});
+
+// Lấy danh sách đánh giá của cá nhân (GET /api/me/reviews)
+app.get("/api/me/reviews", auth, (req, res) => {
+  const userReviews = db.reviews.filter((r) => r.username === req.username);
+  const result = userReviews.map((r) => {
+    const movie = movies.find((m) => m.id === r.movieId);
+    return {
+      ...r,
+      movieTitle: movie ? movie.title : "Phim không tồn tại",
+      year: movie ? movie.year : 0
+    };
+  });
+  res.json(result);
 });
 
 const PORT = process.env.PORT || 3000;
