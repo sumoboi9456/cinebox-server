@@ -111,6 +111,22 @@ app.get("/api/me/reviews", auth, (req, res) => {
   res.json(result);
 });
 
+// THÊM MỚI: Xóa đánh giá của cá nhân (DELETE /api/me/reviews/:movieId)
+app.delete("/api/me/reviews/:movieId", auth, (req, res) => {
+  const movieId = Number(req.params.movieId);
+  const initialLength = db.reviews.length;
+  
+  // Lọc giữ lại tất cả những đánh giá KHÔNG phải của user này về bộ phim này
+  db.reviews = db.reviews.filter(r => !(r.movieId === movieId && r.username === req.username));
+
+  if (db.reviews.length === initialLength) {
+    return res.status(404).json({ error: "Không tìm thấy bài đánh giá để xóa" });
+  }
+
+  save();
+  res.json({ message: "Xóa đánh giá thành công" });
+});
+
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, "0.0.0.0", () =>
   console.log(`Server chạy tại http://localhost:${PORT}`)
