@@ -163,6 +163,53 @@ app.get("/api/movies/:id", (req, res) => {
   res.json(withStats(m));
 });
 
+// ---------- Nơi xem phim hợp pháp (TMDB watch providers) ----------
+// Khóa TMDB chỉ nằm trên máy chủ (biến môi trường TMDB_KEY của Render),
+// app Android chỉ gọi qua API này nên không lộ khóa. Cần thêm TMDB_KEY
+// vào mục Environment trên trang quản trị Render rồi mới dùng được.
+// Trả về: { movieId, link, providers: [{ name, type }] } với type là
+// flatrate (xem theo gói), rent (thuê) hoặc buy (mua), ưu tiên flatrate.
+const TMDB_BASE = "https://api.themoviedb.org/3";
+
+app.get("/api/movies/:id/watch", async (req, res) => {
+  const KEY = process.env.TMDB_KEY;
+  if (!KEY)
+    return res.status(503).json({ error: "Chưa cấu hình TMDB_KEY trên máy chủ" });
+  const movieId = Number(req.params.id);
+  if (!movies.find((x) => x.id === movieId))
+    return res.status(404).json({ error: "Không tìm thấy phim" });
+  try {
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), 10000);
+    const r = await fetch(
+      `${TMDB_BASE}/movie/${movieId}/watch/providers?api_key=${KEY}`,
+      { signal: controller.signal }
+    );
+    clearTimeout(timer);
+    if (!r.ok)
+      return res
+        .status(502)
+        .json({ error: "Không lấy được dữ liệu nơi xem từ TMDB" });
+    const data = await r.json();
+    const vn = (data.results && data.results.VN) || null;
+    const providers = [];
+    const seen = new Set();
+    if (vn) {
+      for (const type of ["flatrate", "rent", "buy"]) {
+        for (const p of vn[type] || []) {
+          if (!seen.has(p.provider_name)) {
+            seen.add(p.provider_name);
+            providers.push({ name: p.provider_name, type });
+          }
+        }
+      }
+    }
+    res.json({ movieId, link: vn ? vn.link : null, providers });
+  } catch (e) {
+    res.status(502).json({ error: "Không lấy được dữ liệu nơi xem từ TMDB" });
+  }
+});
+
 // ---------- Đánh giá ----------
 app.get("/api/movies/:id/reviews", (req, res) => {
   res.json(db.reviews.filter((r) => r.movieId === Number(req.params.id)));
