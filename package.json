@@ -1,16 +1,20 @@
 {
-  "name": "cinebox-server",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
   "author": "",
-  "license": "ISC",
-  "type": "commonjs",
   "dependencies": {
     "express": "^5.2.1"
-  }
+  },
+  "description": "May chu REST API cho ung dung CineBox",
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "main": "server.js",
+  "name": "cinebox-server",
+  "scripts": {
+    "seed": "node seed.js",
+    "start": "node server.js"
+  },
+  "type": "commonjs",
+  "version": "1.0.0"
 }
